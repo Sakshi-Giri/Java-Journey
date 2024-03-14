@@ -39,7 +39,7 @@ This repository serves as a collection of my progress in mastering Java programm
 - **Day 24:** Increment-Decrement Operator (11/03/2024)
 - **Day 25:** Questions & Control Flow Statements - If (12/03/2024)
 - **Day 26:** Conditional Statement - If Else (13/03/2024)
-- **Day 2:** Conditional Statement - If Else If / Ladder (1/03/2024)
+- **Day 27:** Conditional Statement - If Else If / Ladder (14/03/2024)
 
 
 ## Acknowledgments
