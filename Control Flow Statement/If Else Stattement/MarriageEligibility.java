@@ -1,3 +1,6 @@
+//WAP to check if aboy is eligible for marring his girlfriend?
+//The boy must be 21+ and he must have property of more than 1 crore(10000000) or your surname is AMBANI. if he fail in any condition, he is not eligible to marry that girl.
+
 import java.util.Scanner;
 
 class MarriageEligibility
