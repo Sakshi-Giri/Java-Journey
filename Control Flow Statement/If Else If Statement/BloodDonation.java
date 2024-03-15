@@ -1,3 +1,6 @@
+//WAP to check if the user is able to donate blood or not.
+//User must be 20+ and must not consume alcohol or cigrette in 24 hours before donating blood and weight must be more than 50kg.
+
 import java.util.Scanner;
 
 class BloodDonation
