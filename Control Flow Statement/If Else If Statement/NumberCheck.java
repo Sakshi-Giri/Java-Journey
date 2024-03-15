@@ -1,3 +1,5 @@
+//WAP to check if the user given number is POSITIVE, NEGATIVE, NEUTRAL(NATURAL NUMBER)?
+
 import java.util.Scanner;
 
 class NumberCheck
