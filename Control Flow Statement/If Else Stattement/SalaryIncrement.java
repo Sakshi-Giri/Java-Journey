@@ -1,3 +1,5 @@
+//WAP that increases the pay of employee by 3% if his monthly target score is greater than 90, otherwise increases pay by 1%.
+
 import java.util.Scanner;
 
 class SalaryIncrement
