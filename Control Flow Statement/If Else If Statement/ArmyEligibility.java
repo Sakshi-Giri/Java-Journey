@@ -1,3 +1,6 @@
+//WAP to check if the user is able to join Army or not.
+//Age should be more than 18+ and height should be at least 162cm and weight must be more than 56kg.
+
 import java.util.Scanner;
 
 class ArmyEligibility
