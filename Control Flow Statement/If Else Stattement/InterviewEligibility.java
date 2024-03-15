@@ -1,3 +1,6 @@
+//WAP to check if the user entered percentage is eligible for appearing the interview or not?
+//if the percentage is above 60 the student is eligible for interview. if the percentage is below 60 the student is not eligible for interview.
+
 import java.util.Scanner;
 
 class InterviewEligibility
