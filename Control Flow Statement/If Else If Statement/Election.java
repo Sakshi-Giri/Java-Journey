@@ -1,3 +1,6 @@
+//WAP to check to vote in election.
+//user must be 18+ and user must have voter id. List the Party participated in Election and ask uer to vote their fav party.
+
 import java.util.Scanner;
 
 class Election
